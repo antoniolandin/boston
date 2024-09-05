@@ -1,2 +1,2 @@
-# regresion-lineal
+# Boston Housing
 Proyecto para Fuentes
